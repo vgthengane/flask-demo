@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    margin: 0;
+    background-color: white;
+    top: 50px
+}
+
+h1 {
+    color: #02537e;
+}
+
+button {
+    width: 15%;
+    border: none;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 21px;
+    margin: 4px 4px;
+    cursor: pointer;
+    background-color: #02537e;
+    border-radius: 6px;
+}
