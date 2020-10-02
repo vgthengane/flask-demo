@@ -19,6 +19,3 @@ def predict(image):
 
     preds = 0 if pred[0][0] < 0.5 else 1
     return preds, class_dict[preds]
-
-
-
